@@ -6,6 +6,5 @@ This app is a static music player which plays the same music when you click the 
 
 ***
 
-<h3> YouTube <h3>
-
-<h6>You can watch my tutorials on youtube [here](https://www.youtube.com/channel/UC4CwQWuy47lTFP8-RhtF8lw/playlists)<h6>
+# YouTube
+You can watch my tutorials on youtube [here](https://www.youtube.com/channel/UC4CwQWuy47lTFP8-RhtF8lw/playlists)
